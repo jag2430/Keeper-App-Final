@@ -1,0 +1,15 @@
+{
+  "name": "keeper-app-final",
+  "version": "1.0.0",
+  "description": "For my final project, I choose to build off my midterm keeper app project by creating the backend. For the project, I used React functional components for styling the client side, Express and Node for setting up the backend server, and MongoDB as the Database for storing the title and description of the notes. In my final app, users can add a title as well as a description for all of their notes. They can also delete their notes. Blank notes are not allowed to be added.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^8.0.3"
+  }
+}
